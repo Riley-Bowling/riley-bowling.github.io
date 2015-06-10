@@ -12,6 +12,6 @@ text-align: center;
 .banner {
 background-image: url("assets/pics/steps.png");
 background-repeat: repeat;
-padding: 0 100%
+padding: 100% 0;
 
 }
