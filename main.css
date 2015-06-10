@@ -5,7 +5,7 @@ background-repeat: repeat;
 
 h1 {
 font-size: 68px;
-color: #EAADEA;
+color: #B23AEE;
 text-align: center;
 }
 
@@ -13,7 +13,7 @@ img {
 display: block;
 margin-left: auto;
 margin-right: auto;
-margin-top: 20%;
+margin-top: 210%;
 
 }
 
@@ -22,7 +22,7 @@ background-image: url("assets/pics/steps.png");
 background-repeat: repeat;
 border-style: groove;
 border-width: 12px;
-border-color: #EAADEAD;
+border-color: #B452CD;
 margin-left: auto;
 margin-right: auto;
 width: 80%;
