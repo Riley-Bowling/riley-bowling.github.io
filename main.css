@@ -1,7 +1,6 @@
 body {
 background-image: url("assets/pics/trees.png");
 background-repeat: repeat;
-font-family: 'Chewy', cursive;
 }
 
 h1 {
@@ -14,8 +13,8 @@ background-image: url("assets/pics/steps.png");
 background-repeat: repeat;
 border-style: groove;
 border-width: 1%;
-border-color:;
-position: fixed;
+margin-left: auto;
+margin-right: auto;
 width: 80%;
 padding: 2%;
 margin: 0;
