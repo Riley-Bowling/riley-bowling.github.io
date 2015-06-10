@@ -1,17 +1,20 @@
 body {
 background-image: url("assets/pics/trees.png");
 background-repeat: repeat;
+font-family: 'Arvo', serif;
 }
 
 h1 {
 color: purple;
-font-family: 'Arvo', serif;
 text-align: center;
 }
 
 .banner {
 background-image: url("assets/pics/steps.png");
 background-repeat: repeat;
+border-style: groove;
+border-width: 5px;
+border-color:;
 position: fixed;
 width: 100%;
 padding: 2%;
