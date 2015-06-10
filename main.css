@@ -5,7 +5,7 @@ background-repeat: repeat;
 
 h1 {
 font-size: 68px;
-color: #B23AEE;
+color: #BA55D3;
 text-align: center;
 }
 
@@ -20,9 +20,9 @@ margin-top: 210%;
 .banner {
 background-image: url("assets/pics/steps.png");
 background-repeat: repeat;
-border-style: groove;
+border-style: ridge;
 border-width: 12px;
-border-color: #B452CD;
+border-color: #E066FF;
 margin-left: auto;
 margin-right: auto;
 width: 80%;
