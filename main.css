@@ -14,6 +14,7 @@ background-image: url("assets/pics/steps.png");
 background-repeat: repeat;
 border-style: groove;
 border-width: 12px;
+border-color: purple;
 margin-left: auto;
 margin-right: auto;
 width: 80%;
