@@ -1,7 +1,7 @@
 body {
 background-image: url("assets/pics/trees.png");
 background-repeat: repeat;
-font-family: 'Arvo', serif;
+font-family: 'Chewy', cursive;
 }
 
 h1 {
@@ -13,7 +13,7 @@ text-align: center;
 background-image: url("assets/pics/steps.png");
 background-repeat: repeat;
 border-style: groove;
-border-width: 5px;
+border-width: 1%;
 border-color:;
 position: fixed;
 width: 80%;
