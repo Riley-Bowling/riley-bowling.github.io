@@ -4,7 +4,7 @@ background-repeat: repeat;
 }
 
 h1 {
-font-size: 36px;
+font-size: 52px;
 color: purple;
 text-align: center;
 }
@@ -18,6 +18,5 @@ margin-left: auto;
 margin-right: auto;
 width: 80%;
 padding: 2%;
-margin: 0;
 
 }
