@@ -4,6 +4,7 @@ background-repeat: repeat;
 }
 
 h1 {
+font-size: 36px;
 color: purple;
 text-align: center;
 }
@@ -12,7 +13,7 @@ text-align: center;
 background-image: url("assets/pics/steps.png");
 background-repeat: repeat;
 border-style: groove;
-border-width: 1%;
+border-width: 3%;
 margin-left: auto;
 margin-right: auto;
 width: 80%;
